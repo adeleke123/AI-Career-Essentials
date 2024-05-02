@@ -1,11 +1,11 @@
 **Quiz**
 
-Question #0
+* Question #0
+
 How does an artificial neural network work?
 
 
 It relies on human reactions to generate responses.
-
 
 It physically grows connections to other neurons in response to data.
 
