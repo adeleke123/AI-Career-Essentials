@@ -6,7 +6,7 @@ https://giphy.com/gifs/bbc-IsTRdcHbZJPAyjlJzP?utm_source=iframe&utm_medium=embed
 
 To get a better idea of how AI is currently changing work, let’s start with the big picture: how is AI reshaping specific key industries around the world.
 
-Healthcare - AI for Early Diagnosis:
+**Healthcare - AI for Early Diagnosis:**
 
 🪄 AI is revolutionizing cancer detection at ETH Zurich. They found that changes in blood cell nuclei can indicate tumours. Now, here is the interesting part: using AI, they distinguished between healthy individuals and cancer patients with about 85% accuracy. They even identified tumour types like melanoma or glioma, a first in this field! Normally, detecting cancer early is hard, but this team analyzed lymphocytes and monocytes from simple blood samples, betting these cells react to tumour-released substances.
 
@@ -14,7 +14,7 @@ Healthcare - AI for Early Diagnosis:
 
  
 
-Finance - AI in Fraud Detection:
+**Finance - AI in Fraud Detection:**
 
 🪄 AI can now detect fraud! DataDome, a company leveraging AI and machine learning, is revolutionising fraud detection. Their system isn’t just fast; it learns from past data to adapt and tackle new threats, a feat traditional software can’t match. With its dynamic approach, DataDome significantly reduces false positives without affecting user experience. This is a game-changer for e-commerce sites plagued with issues like card fraud, fake accounts, and credential stuffing.
 
