@@ -2,6 +2,9 @@
 
 Now, you should better understand that there are clearly areas where humans are more capable than AI, lets zoom in on some of these limitations.
 
+![image](https://github.com/adeleke123/AI-Career-Essentials/assets/51156057/12af72bd-3031-4444-8088-9419e909d803)
+
+
 1. Creativity and Emotional Intelligence
 
 You know, AI really doesn’t have the same kind of creativity or emotional intelligence that we humans have. It can mimic these qualities, but it doesn’t truly ‘feel’ or ‘invent’ like we do. Take AI-generated art or music as an example – it’s all based on existing genres, styles, and patterns, lacking the originality and emotion that human creativity brings. And there’s more to it, especially when we talk about the context of art. Different cultures have diverse definitions of beauty, but AI tends to average things out, usually favouring Western or Eurocentric ideals. This ‘average effect’ means AI sticks to the most common qualities found in its data, missing out on the rich diversity of global art and beauty.
