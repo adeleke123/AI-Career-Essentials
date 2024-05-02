@@ -23,14 +23,18 @@ To set yourself up for success, you need to start strengthening the skills and t
 
 Click the buttons below to reveal your mission for this week! You’ll find everything you need to meet this challenge in this week’s content right here on Savanna.
 
-Your work will culminate in your Week 1 Milestone and Test.
++ Your work will culminate in your Week 1 Milestone and Test.
+  
 **Your Challenge for the Week**
+
 + Your task for this week is to prepare for the weeks ahead. You are to come out of this week with your:
 + AI Toolkit - Starting with a solid understanding of how AI works and best practices when using it.
 + Reflection on your target industry and role.
 + PICS - A document that lists your Passions, Interests, Causes, and Strengths.
 + Skills Map Baseline - So you know your strong points and areas for growth.
+
 **Your AI Tools for the Week**
+
 + ChatGPT
 + Bing
 
