@@ -5,6 +5,7 @@
 
 Go to your Portal and share 3 different scenarios you have personally experienced where you know or suspect that AI was involved.
 
+![image](https://github.com/adeleke123/AI-Career-Essentials/assets/51156057/1fa44681-7d59-4e2f-8b12-db93ddc7dc04)
 
 
 AI has been present in and shaping our lives longer than we might think, and here are some examples of where you might have encountered AI but might not have noticed.
@@ -27,6 +28,10 @@ Smart Home Devices: If you have a smart thermostat or lighting system that adjus
 
 Auto-Correct and Predictive Text in Messaging: When your phone corrects your typing or predicts your next word, that’s AI working on natural language processing and understanding the context of your conversation.
 
-Music and Video Streaming Services: Platforms like Spotify and Netflix recommend songs and shows based on what you’ve watched. These recommendations are made by an AI analysing your preferences to curate a personalised media experience.
+Music and Video Streaming Services: Platforms like Spotify and Netflix recommend songs and shows based on what you’ve watched. These 
+recommendations are made by an AI analysing your preferences to curate a personalised media experience.
 
+![image](https://github.com/adeleke123/AI-Career-Essentials/assets/51156057/46546c2d-6725-4439-97f1-96cacc821602)
+
+**Do any of these match what you just wrote about?**
 
