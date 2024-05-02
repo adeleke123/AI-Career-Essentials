@@ -3,94 +3,58 @@
 **Quiz questions**
 
 Question #0
-What does technological unemployment mean?
 
+**What does technological unemployment mean?**
 
-Creating machines that can train humans
-
-
-Creating machines capable of performing human jobs
-
-
-Creating AI to support humans
-
-
-Creating AI that can hire humans
++ Creating machines that can train humans
++ Creating machines capable of performing human jobs
++ Creating AI to support humans
++ Creating AI that can hire humans
 
 Question #1
-Which of the following tasks is AI particularly good at?
 
+**Which of the following tasks is AI particularly good at?**
 
-Creating entirely new art forms
-
-
-Making ethical decisions
-
-
-Understanding and displaying nuanced human emotions
-
-
-Processing and analyzing large amounts of data
++ Creating entirely new art forms
++ Making ethical decisions
++ Understanding and displaying nuanced human emotions
++ Processing and analyzing large amounts of data
 
 Question #2
-How can AI help solve global inequality?
 
+**How can AI help solve global inequality?**
 
-Meal planning and preparation
-
-
-Academic research
-
-
-Through farming advice, education tutoring, patient assistance, and healthcare worker support
-
-
-Giving coaching advice
++ Meal planning and preparation
++ Academic research
++ Through farming advice, education tutoring, patient assistance, and healthcare worker support
++ Giving coaching advice
 
 Question #3
-AI has had significant success in
 
+**AI has had significant success in**
 
-Automating repetitive and mundane tasks
-
-
-Predicting the stock market with 100% accuracy
-
-
-Understanding complex philosophical concepts
-
-
-Replacing human artists
++ Automating repetitive and mundane tasks
++ Predicting the stock market with 100% accuracy
++ Understanding complex philosophical concepts
++ Replacing human artists
 
 Question #4
-What are the impressive features of Bing?
 
+**What are the impressive features of Bing?**
 
-It makes conscious decisions
-
-
-It has a good natural language
-
-
-It has human emotions
-
-
-Sometimes it provides incorrect information
++ It makes conscious decisions
++ It has a good natural language
++ It has human emotions
++ Sometimes it provides incorrect information
 
 Question #5
-AI’s inability to create genuinely new ideas or concepts is due to its lack of
 
+**AI’s inability to create genuinely new ideas or concepts is due to its lack of**
 
-Data
-
-
-Speed
-
-
-Creativity
-
-
-Processing power
++ Data
++ Speed
++ Creativity
++ Processing power
 
 Question #6
 What are the causes of AI bias?
