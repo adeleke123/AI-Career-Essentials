@@ -5,3 +5,4 @@ There’s a lot of material to get through this week! Take a look at this overvi
 
 
 Please use the AiCE Week 1 Roadmap provided as a guide to manage your time efficiently.![You can download the guide by clicking this link](https://github.com/adeleke123/AI-Career-Essentials/assets/51156057/d046e03f-f9e0-43cd-91c3-897e8b87728e). Kindly note that the roadmap is a suggested guide, and you have the freedom to manage your time in a way that suits you best. However, we want to support you as much as possible. It’s important to note that all the content for the week has been released, and this guide only suggests the days you can allocate for each module.
+
