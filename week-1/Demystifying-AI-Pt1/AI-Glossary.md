@@ -1,4 +1,4 @@
-AI Glossary
+**AI Glossary**
 
 Phew! That was a lot of new terms and concepts. So, let’s put them all in one place so you can refer back to them at any point in this course.
 
