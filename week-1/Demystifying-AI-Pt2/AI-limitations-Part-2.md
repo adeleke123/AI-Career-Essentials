@@ -1,12 +1,16 @@
 **AI limitations (Part 2)**
 
-3. Contextual Understanding
+
+![image](https://github.com/adeleke123/AI-Career-Essentials/assets/51156057/1f1f0d96-b0d4-45fa-a271-a5dc1ae24f31)
+
+
+**3. Contextual Understanding**
 
 AI often struggles with understanding context, especially in complex and nuanced situations. This limitation is particularly evident in natural language processing and emotional intelligence. For instance, while AI can excel in parsing language and identifying keywords, it may fail to grasp the subtleties of sarcasm, humour, or cultural idioms.
 
 This lack of contextual understanding can lead to misinterpretations or inappropriate communication responses, diminishing AI’s effectiveness in roles like customer service, translation, or therapy. Similarly, in emotional intelligence, while AI can identify basic emotions through facial expressions or voice tones, it lacks a deep understanding of human emotions that are often influenced by a complex mix of personal, cultural, and contextual factors. This can result in AI systems misjudging human emotional states or the nuances behind social interactions.
 
-4. Ethical and Privacy Concerns
+**4. Ethical and Privacy Concerns**
 
 AI really stirs up some serious concerns about privacy, surveillance, and how clear it is in its decision-making. Think about all the data it needs to function; this can lead to some pretty intrusive surveillance. It’s like having an eye on people’s behaviours and preferences all the time, and often, folks don’t even know they’re being watched that closely. This kind of surveillance, especially when it’s paired with big data analytics, can affect our privacy.
 
