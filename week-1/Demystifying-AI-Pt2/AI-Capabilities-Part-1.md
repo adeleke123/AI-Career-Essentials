@@ -1,5 +1,8 @@
 **AI Capabilities (Part 1)**
 
+![A](https://github.com/adeleke123/AI-Career-Essentials/assets/51156057/9a8785e2-3ba3-40f2-b284-7be70156770a)
+
+
 What more can AI do?
 
 It turns out there are a lot of different things! But does it do all of them well? That largely depends on the quality of the data it’s trained on and how robust the algorithms used in training are.
