@@ -14,3 +14,15 @@ The most important thing is not that you must do exercise of a particular kind. 
 For all you overachievers out there, The New York Times worked with a group of health scientists a few years back, and reported that a 7-minute workout is the best “bang for your buck” (that is, return on your investment of time) in terms of health benefits provided. If it calls to you, we encourage you to give the [NYT 7-minute workout](https://www.nytimes.com/video/well/100000007527127/standing-7-min-workout.html) a try!
 
 Please read this short Harvard Business Review article to learn more about the benefits of daily movement in your professional life. [Regular Exercise Is Part of Your Job-HBR.pdf](https://drive.google.com/uc?export=download&id=14ek_9h29kP8gkI7FoXAboUvc2SMXv3u6)
+
+
+![image](https://github.com/adeleke123/AI-Career-Essentials/assets/51156057/c32b60db-830e-4a55-a40d-88be4f719522)
+
+How much movement do you get in a typical day?
+
+What is your favourite way of moving?
+
+By the end of this course, daily movement of some kind should be second nature to you!
+
+
+
